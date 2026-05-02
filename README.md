@@ -1,1 +1,2 @@
-ESempio di utilizzo del make e del suo makefile
+Esempio di utilizzo del make e del suo makefile
+
